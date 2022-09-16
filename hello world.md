@@ -19,3 +19,4 @@
 
 ## Добавление ссылок.
 
+раюота с маркдаун [ссылка](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/)
