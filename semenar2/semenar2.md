@@ -29,4 +29,4 @@
 
 # <span style="color: #ff6600;">Ветки в Gid</span></p>
 
-    git branch
+   git branch
