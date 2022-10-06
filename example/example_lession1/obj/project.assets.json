@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/valentin/GIT_EDUCATION/example/examle001HelloWord/examle001HelloWord.csproj",
-      "projectName": "examle001HelloWord",
-      "projectPath": "/Users/valentin/GIT_EDUCATION/example/examle001HelloWord/examle001HelloWord.csproj",
+      "projectUniqueName": "/Users/valentin/GIT_EDUCATION/example/example_lession1/example_lession1.csproj",
+      "projectName": "example_lession1",
+      "projectPath": "/Users/valentin/GIT_EDUCATION/example/example_lession1/example_lession1.csproj",
       "packagesPath": "/Users/valentin/.nuget/packages/",
-      "outputPath": "/Users/valentin/GIT_EDUCATION/example/examle001HelloWord/obj/",
+      "outputPath": "/Users/valentin/GIT_EDUCATION/example/example_lession1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/valentin/.nuget/NuGet/NuGet.Config"
